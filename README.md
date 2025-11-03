@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ***
 
@@ -202,3 +203,6 @@ This project is licensed under the [MIT License](./LICENSE) © 2025 Vidzai Digit
 ---
 
 ***
+=======
+# Smart-Traffic-Management
+>>>>>>> dec08b00fe98982b9240fd08e8d62ac442bcf36d
